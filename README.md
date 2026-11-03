@@ -99,15 +99,6 @@ AraBERTv2 achieved the highest accuracy among the evaluated models.
 
 The Django-based dashboard provides an interface for reviewing call analysis results, exploring employee information, and visualizing performance insights.
 
-### Screenshots
-
-_Add screenshots of the actual system here._
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-![Call Analysis](screenshots/call-analysis.png)
-![Employee Performance](screenshots/employee-performance.png)
-```
 
 ## Installation
 
